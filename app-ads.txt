@@ -1,0 +1,2 @@
+# AdMob: authorises this publisher id to sell ads in Super Dodge (served at /app-ads.txt).
+google.com, pub-9925651435264291, DIRECT, f08c47fec0942fa0
